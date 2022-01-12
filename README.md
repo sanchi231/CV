@@ -1,2 +1,2 @@
 # CV
-This is a creative way of creating a CV using simple HTML
+This is a innovative way of building a CV using simple HTML
